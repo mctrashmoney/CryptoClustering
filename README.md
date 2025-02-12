@@ -1,13 +1,13 @@
 # Cryptocurrency Market Data Clustering Repository
 
-Welcome to our repository focused on exploring patterns in cryptocurrency market data using unsupervised learning
+Welcome to this repository focused on exploring patterns in cryptocurrency market data using unsupervised learning
 techniques. This project leverages K-means clustering to group cryptocurrencies based on their market
 characteristics, both with and without dimensionality reduction through Principal Component Analysis (PCA).
 
 ## Overview
 
 The primary goal of this project is to identify clusters of cryptocurrencies that exhibit similar behaviors in the
-market. By analyzing features such as trading volume, returns, and other metrics, we aim to uncover insights into
+market. By analyzing features such as trading volume, returns, and other metrics, the goal is to uncover insights into
 how different cryptocurrencies interact within the broader market landscape.
 
 ## Usage
